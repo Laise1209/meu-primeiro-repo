@@ -1,0 +1,33 @@
+.alerta {
+    background-color: violet;
+    width: 500px;
+    height: fit-content;
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/706/706830.png');
+    background-size: cover;
+}
+
+.border-yellow{
+    border-radius: 25px;
+    border: solid yellow;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+}
+
+.span{
+    color: purple;
+}
+
+.i{
+    color: blue;
+}
